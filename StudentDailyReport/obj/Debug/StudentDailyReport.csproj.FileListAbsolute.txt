@@ -1,0 +1,7 @@
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\jacob\Documents\C# TA Course\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
